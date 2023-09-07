@@ -1,8 +1,9 @@
 POST http://localhost:3003/api/blogs
 Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZlcnRmZXN0IiwiaWQiOiI2NGY5OTc2MjU3ZDAxZTgzMDgxYzMxNzkiLCJpYXQiOjE2OTQwNzg5ODN9.e3GRIV-doyySRs7FHbjO5gAvJthaNStbxrU8GGZ3hZM
 
 {
-    "title": "bad blog",
+    "title": "hh blog",
     "author": "chenyuyuyu",
     "url": "localhost:70",
     "likes": 3121 

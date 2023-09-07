@@ -2,9 +2,9 @@ POST http://localhost:3003/api/users
 Content-Type: application/json
 
 {
-  "username": "chen12",
-  "name": "cyy1",
-  "password": "1234"
+  "username": "fertfest",
+  "name": "cy",
+  "password": "123456"
 }
 # fertfest 123456
 # chen12 1234
